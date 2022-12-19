@@ -4,7 +4,7 @@
 
 ## リリース0.2
 
-https://github.com/yasstake/rusty-bot/releases/tag/release-0.2.0
+https://github.com/yasstake/rusty-bot/releases/tag/release-0.2.0a
 
 * Binanceのspot/BTCBUSDペアーでのバックテスト機能を提供
 
